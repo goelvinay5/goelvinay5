@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Goel
-- 👀 I’m interested in Sowftware Development
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning DSA and System Design
 - 💞️ I’m looking to collaborate on gitHub
 - 📫 You can reach me @
   - ✆ +91- 9886306511
