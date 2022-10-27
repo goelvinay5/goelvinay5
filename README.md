@@ -2,18 +2,44 @@
 - 👀 I’m interested in Sowftware Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on gitHub
-- 📫 You can reach me @goel.vinay5@gmail.com
+- 📫 You can reach me @
+  - ✆ +91- 9886306511
+  - ✉[goel.vinay5@gmail.com](mailto:goel.vinay5@gmail.com)
+ 
+ **Profiles**
+- [https://linkedin.com/in/vinaygoel5](https://linkedin.com/in/vinaygoel5)
+- [scaler.com/academy/profile/cacc617e8c03](https://www.scaler.com/academy/profile/cacc617e8c03)
+- [https://github.com/goelvinay5](https://github.com/goelvinay5)
+- [https://leetcode.com/vinaygoel/](https://leetcode.com/vinaygoel/)
+- https://goelvinay5.github.io/
 
-| ![Shape1_0](RackMultipart20221027-1-p9to7b_html_bb738449ecef59bc.gif)Contact✆ +91- 9886306511✉[goel.vinay5@gmail.com](mailto:goel.vinay5@gmail.com)[https://linkedin.com/in/vinaygoel5](https://linkedin.com/in/vinaygoel5)[scaler.com/academy/profile/cacc617e8c03](https://www.scaler.com/academy/profile/cacc617e8c03)[https://github.com/goelvinay5](https://github.com/goelvinay5)[https://leetcode.com/vinaygoel/](https://leetcode.com/vinaygoel/)https://goelvinay5.github.io/
-SkillsData Structures (Proficient)System Designing (Proficient)Backend Development (Proficient)Cloud / DevOps (Proficient)Lean Six Sigma (Proficient)Project Management (Proficient)Agile Methodologies (Proficient)
+**Skills**
+- Data Structures (Proficient)
+- System Designing (Proficient)
+- Backend Development (Proficient)
+- Cloud / DevOps (Proficient)
+- Lean Six Sigma (Proficient)
+- Project Management (Proficient)
+- Agile Methodologies (Proficient)
 
-Technology StackC# / .Net / MVC / .Net Core (Expert)Java / Spring Boot (Proficient)React (Proficient)JavaScript (Proficient)
-ArchitecturesMicroservices Event Driven
+**Technology Stack**
+- C# / .Net / MVC / .Net Core (Expert)
+- Java / Spring Boot (Proficient)
+- React (Proficient)
+- JavaScript (Proficient)
 
-AwardsAn Invaluable ResourceBest In class LeadershipExtraordinary and Consistent accomplishments
+**Architectures**
+- Microservices 
+- Event Driven
 
-Behavioural TrainingsSituational LeadershipEmotional Intelligence |
-| --- |
+**Awards**
+- An Invaluable Resource
+- Best In class Leadership
+- Extraordinary and Consistent accomplishments
+
+**Behavioural Trainings**
+- Situational Leadership
+- Emotional Intelligence
 
 # Vinay Goel
 
