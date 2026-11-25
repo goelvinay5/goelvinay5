@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Goel
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DSA and System Design
+- 🌱 I’m currently working as a technical lead in Infovision Labs
 - 💞️ I’m looking to collaborate on gitHub
 - 📫 You can reach me @
   - ✆ +91- 9886306511
@@ -25,10 +25,10 @@
 
 **Technology Stack**
 - C# / .Net / MVC / .Net Core (Expert)
-- Java / Spring Boot (Proficient)
-- React (Proficient)
+- Angular (Proficient)
 - JavaScript (Proficient)
-
+- Java / Spring Boot (Proficient)
+  
 **Architectures**
 - Microservices 
 - Event Driven
@@ -44,12 +44,12 @@
 
 # Vinay Goel
 
-Bangalore, Karnataka, India
+Pune, Maharashtra, India
 
 # Summary
 
-- Vinay Goel has 12 years of Experience that includes responsibilities as **Technical Architect, Team Lead, Senior Software Engineer, Software Engineer** in IT Industry.
-- He has experience of managing more than 10 projects in C#, .Net, .Net Core, react, Java and SharePoint technologies and has moved between agile and waterfall SDLC approaches depending on project specifics and client goals, creating detailed project road maps, plans, schedules and work breakdown structures.
+- Vinay Goel has 15 years of Experience that includes responsibilities as **Technical Lead, Senior Software Engineer, Software Engineer** in IT Industry.
+- He has experience of managing more than 10 projects in C#, .Net, .Net Core, angular, react, Java and SharePoint technologies and has moved between agile and waterfall SDLC approaches depending on project specifics and client goals, creating detailed project road maps, plans, schedules and work breakdown structures.
 - He has understanding of Data Structures, SOLID principles, design patterns, code review and refactoring, TDD, BDD, OOAD, Low level and High Level system design and is adhered to company standards for coding and unit/functional test coverage
 - He has 4 years of experience working in DevOps, CI/CD pipeline, preparation of Release implementation and deployment Plan and facilitates execution of it during release window. Conduct post release Retrospective with all stakeholders for continuous improvement. Conduct Release readiness reviews and Go/No-Go reviews.
 - He has 3 years of Experience of Leading technical team of 10+ members and tracking progress to ensure project milestones complete on time, on budget and with the desired results.
@@ -75,6 +75,29 @@ Academic AchievementsDistinctive Performance in All India Science Olympiad GATE 
 | --- |
 
 Experience
+Infovision Labs
+
+10 months
+
+## Staff Software Engineer
+
+December 2024 - Present (2 years)
+
+Pune, India
+
+- Worked on a oil and gas application where I Implemented ag-grid dashboard and chat using signalR
+  
+R1RCM
+
+10 months
+
+## Staff Software Engineer
+
+September 2023 - June 2024 (10 months)
+
+Bangalore, India
+
+- Worked on a RCM Application
 
 Harman Connected Services
 
@@ -82,7 +105,7 @@ Harman Connected Services
 
 ## Technology Architect – Product Development
 
-September 2021 - Present (1 year 1 month)
+September 2021 - September 2023 (2 year)
 
 Bangalore, India
 
